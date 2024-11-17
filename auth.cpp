@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
-
 void licensesystem() {
     std::cout << "Username: ";
     std::string Username; 
