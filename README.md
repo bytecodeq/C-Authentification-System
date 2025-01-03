@@ -1,5 +1,5 @@
 ✨ Simple C++ Authentication System
-Made with love by strix ❤
+Made with love by bytecode ❤
 
 Welcome to the Simple C++ Authentication System! This is a command-line application that allows users to register, log in, and authenticate themselves securely using basic username and password functionality.
 
