@@ -18,7 +18,7 @@ void licensesystem() {
     std::cout << "License entered: " << License << std::endl;
 }
 
-std::string license = "LICENSESYSTEMMADEBYEVILSTRIXONGH\n"; 
+std::string license = "LICENSESYSTEMMADEBYBYTECODEONGH\n"; 
 
 int main() {
     system("cls");
@@ -26,7 +26,7 @@ int main() {
 
     licensesystem();
 
-    std::string correctLicense = "LICENSESYSTEMMADEBYEVILSTRIXONGH";
+    std::string correctLicense = "LICENSESYSTEMMADEBYBYTECODEONGH";
     std::string enteredLicense; 
 
     std::cout << "Enter the license to register: ";
